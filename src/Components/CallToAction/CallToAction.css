@@ -1,0 +1,37 @@
+.cta__section > h1 {
+  font-size: 50px;
+  line-height: 5rem;
+  font-weight: 600;
+}
+.cta__section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+.cta__section > button {
+  width: 200px;
+  padding: 5px 10px;
+  font-size: 20px;
+  background-color: #d0373c;
+  cursor: pointer;
+  text-align: center;
+  color: #fff;
+  font-weight: 400;
+  margin: 0 auto;
+  border-radius: 5%;
+  border-radius: 5px;
+}
+.cta__button:hover {
+  background-color: #ff5a5f;
+  width: 200px;
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  color: #fff;
+  font-weight: 400;
+  margin: 0 auto;
+  border-radius: 5px;
+  transition: 1s all ease;
+}

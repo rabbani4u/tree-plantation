@@ -1,9 +1,18 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./Cards.css";
 
 function Cards() {
   return (
     <div className="container my-20">
+      <h1 className="heading__text">WHERE WE PLANT</h1>
+      <div
+        style={{
+          borderBottom: "1px solid lightgray",
+          marginBottom: "30px",
+          marginTop: "20px",
+        }}
+      ></div>
       <div class="row no-gutters">
         <div class="col-sm">
           <img

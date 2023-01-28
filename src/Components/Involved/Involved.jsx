@@ -3,7 +3,7 @@ import React from "react";
 function Involved() {
   return (
     <div>
-      <div class="flex min-h-screen items-center justify-center bg-neutral-800">
+      <div class="flex min-h-screen items-center justify-center ">
         <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
             <div class="h-80 w-80">

@@ -1,7 +1,7 @@
 .cta__section > h1 {
-  font-size: 50px;
+  font-size: 55px;
   line-height: 5rem;
-  font-weight: 600;
+  font-weight: 700;
 }
 .cta__section {
   display: flex;
@@ -9,7 +9,7 @@
   text-align: center;
   justify-content: center;
 }
-.cta__section > button {
+.cta__section .cta__button {
   width: 200px;
   padding: 5px 10px;
   font-size: 20px;
@@ -33,5 +33,6 @@
   font-weight: 400;
   margin: 0 auto;
   border-radius: 5px;
+  transform: scale(1.1, 1.1);
   transition: 1s all ease;
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import "./HeroOne.css";
 
 function HeroOne() {
   return (
@@ -20,7 +21,7 @@ function HeroOne() {
                 INITIATIVES IN 2023
               </p>
               <a
-                className="btn btn-outline-light btn-lg global-button"
+                className="btn btn-outline-light btn-lg global-button mt-5"
                 href="#!"
                 role="button"
               >

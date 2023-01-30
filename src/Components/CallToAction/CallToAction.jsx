@@ -1,5 +1,5 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.css";
+
 import "./CallToAction.css";
 
 function CallToAction() {

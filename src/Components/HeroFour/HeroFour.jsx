@@ -2,8 +2,7 @@ import React from "react";
 
 function HeroFour() {
   return (
-    <div>
-      (
+    <div className="my-10">
       <div
         class="relative h-screen w-full flex items-center justify-center text-center bg-cover bg-center"
         style={{
@@ -28,7 +27,7 @@ function HeroFour() {
               <div class="rounded-md shadow">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-2 md:text-lg md:px-10 border-white"
                 >
                   EXPLORE MAP
                 </a>
@@ -37,7 +36,6 @@ function HeroFour() {
           </div>
         </main>
       </div>
-      )
     </div>
   );
 }

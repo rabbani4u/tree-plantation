@@ -12,6 +12,7 @@ import HeroOne from "./Components/HeroOne/HeroOne";
 import HeroThree from "./Components/HeroThree/HeroThree";
 import HeroTwo from "./Components/HeroTwo/HeroTwo";
 import Involved from "./Components/Involved/Involved";
+import Social from "./Components/Social/Social";
 import YouTube from "./Components/YouTube/YouTube";
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
       <CheckJobs />
       <BannerTwo />
       <HeroFour />
+      <Social />
     </div>
   );
 }

@@ -1,44 +1,42 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.css";
+
 import "./HeroTwo.css";
 function HeroTwo() {
   return (
     <div>
-      <header style={{ paddingLeft: 0 }}>
-        <div
-          className="p-5 text-center bg-image"
-          style={{
-            backgroundImage:
-              "url('https://images.unsplash.com/photo-1473594659356-a404044aa2c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80')",
-            height: 600,
-          }}
-        >
-          <div
-            className="mask"
-            style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
-          >
-            <div className="container   my-52 h-100">
-              <div className="text-white align-items-center ml-70">
-                <p className="mb-3 sub-heading">
-                  WE ARE A 501(C)3 NON-PROFIT BASED IN VERMONT
-                </p>
-                <h1 className="mb-3 heading ">ONE DOLLAR. ONE TREE.</h1>
-                <p className="mb-3 sub-heading ">
-                  WE MAKE IT SIMPLE FOR ANYONE TO PLANT TREES
-                </p>
+      <div
+        class="relative h-screen w-full flex items-center justify-center text-center bg-cover bg-center"
+        style={{
+          backgroundImage:
+            "url('https://cdn.shopify.com/s/files/1/0326/7189/files/tree-planting_1400x.jpg?v=1638392126')",
+        }}
+      >
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div>
 
+        <main class="px-4 sm:px-6 lg:px-8 z-10">
+          <div class="text-center">
+            <p class="my-5 text-white sm:mt-5 sm:text-md sm:max-w-xl sm:mx-auto md:mt-5">
+              WE ARE A 501(C)3 NON-PROFIT BASED IN VERMONT
+            </p>
+            <h2 class="text-4xl tracking-tight leading-10 font-medium sm:text-5xl text-white sm:leading-none md:text-6xl">
+              <span class="text-white font-bold">ONE DOLLAR. ONE TREE.</span>
+            </h2>
+            <p class="mt-3 text-white sm:mt-5 sm:text-md sm:max-w-xl sm:mx-auto md:mt-5">
+              WE MAKE IT SIMPLE FOR ANYONE TO PLANT TREES
+            </p>
+            <div class="mt-5 sm:mt-8 sm:flex justify-center">
+              <div class="rounded-md shadow">
                 <a
-                  className="btn btn-outline-light btn-lg mx-3 px-5 second-button  about__btn"
-                  href="#!"
-                  role="button"
+                  href="#"
+                  class="w-full flex items-center justify-center px-10 py-1 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-2 md:text-lg md:px-10 border-white"
                 >
-                  About
+                  ABOUT
                 </a>
               </div>
             </div>
           </div>
-        </div>
-      </header>
+        </main>
+      </div>
     </div>
   );
 }

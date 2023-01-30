@@ -1,10 +1,10 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.css";
+
 import "./Youtube.css";
 
 function YouTube() {
   return (
-    <div className="container d-flex my-20">
+    <div className="grid grid-cols-1 col-span-1 justify-center my-20">
       <iframe
         width="1181"
         height="663"

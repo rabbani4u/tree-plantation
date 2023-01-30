@@ -7,6 +7,7 @@ import Cards from "./Components/Cards/Cards";
 import CheckJobs from "./Components/CheckJobs/CheckJobs";
 
 import Hero from "./Components/Hero/Hero";
+import HeroFour from "./Components/HeroFour/HeroFour";
 import HeroOne from "./Components/HeroOne/HeroOne";
 import HeroThree from "./Components/HeroThree/HeroThree";
 import HeroTwo from "./Components/HeroTwo/HeroTwo";
@@ -32,6 +33,7 @@ function App() {
       <HeroThree />
       <CheckJobs />
       <BannerTwo />
+      <HeroFour />
     </div>
   );
 }

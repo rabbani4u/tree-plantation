@@ -3,44 +3,51 @@ import "./Hero.css";
 
 function Hero() {
   return (
-    <header style={{ paddingLeft: 0 }}>
+    <div>
       <div
-        className="p-5 text-center bg-image"
+        class="relative h-screen w-full flex items-center justify-start text-left bg-cover bg-center h-700"
         style={{
           backgroundImage:
-            "url('https://cdn.shopify.com/s/files/1/0326/7189/files/noaa-desktop-unsplash_0841da39-ef3f-4f08-bdc2-407bd81883a1_1400x.jpg?v=1674774440')",
-          height: 600,
+            "url('https://cdn.shopify.com/s/files/1/0326/7189/files/reforestation-biodiversity-desktop_1400x.jpg?v=1674855907')",
         }}
       >
-        <div className="mask" style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}>
-          <div className=" d-flex  mx-60 my-52 h-100">
-            <div className="text-white align-items-center">
-              <p className="mb-3 sub-heading">
-                ONE DOLLAR. ONE TREE. ONE PLANT.
-              </p>
-              <h1 className="mb-3 heading">WE PLANT TREES</h1>
-              <p className="mb-3 sub-heading">TOGETHER, PLANTING A FOREST!</p>
-              <a
-                className="btn btn-outline-light btn-lg global-button"
-                href="#!"
-                role="button"
-              >
-                PLANT A TREE
-              </a>
-              <a
-                className="btn btn-outline-light btn-lg mx-3 second-button"
-                href="#!"
-                role="button"
-              >
-                Start A Fundraiser
-              </a>
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div>
+
+        <main class="px-10 lg:px-24 z-10">
+          <div class="text-left">
+            <p class="mt-3 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg font-light">
+              ONE DOLLAR. ONE TREE. ONE PLANT.
+            </p>
+            <h2 class="text-4xl tracking-tight leading-10 font-extrabold sm:text-5xl text-white sm:leading-none md:text-6xl">
+              WE PLANT TREES
+            </h2>
+            <p class="mt-3 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg font-light">
+              TOGETHER, PLANTING A FOREST!
+            </p>
+            <div class="mt-5 sm:mt-8 sm:flex justify-start">
+              <div class="rounded-md shadow">
+                <a
+                  href="#"
+                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-indigo-50 hover:bg-indigo-50 focus:outline-none focus:border-indigo-50 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                >
+                  PLAN A TREE
+                </a>
+              </div>
+              <div class=" sm:mt-0 sm:ml-3">
+                <a
+                  href="#"
+                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                >
+                  START A FUNDRAISER
+                </a>
+              </div>
             </div>
           </div>
-        </div>
+        </main>
       </div>
-      <div className="blue-box" style={{ border: "10px solid #0258B5" }}></div>
-      <div className="blue-box" style={{ border: "10px solid #F6CE00" }}></div>
-    </header>
+      <div style={{ borderBottom: "20px solid #0258B5" }}></div>
+      <div style={{ borderBottom: "20px solid #F6CE00 " }}></div>
+    </div>
   );
 }
 

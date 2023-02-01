@@ -28,7 +28,7 @@ function Hero() {
               <div class="rounded-md shadow">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-indigo-50 hover:bg-indigo-50 focus:outline-none focus:border-indigo-50 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                  class="w-full flex items-center justify-center px-10 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-indigo-50 hover:bg-indigo-50 focus:outline-none focus:border-indigo-50 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-3 md:text-lg md:px-10"
                 >
                   PLAN A TREE
                 </a>
@@ -36,7 +36,7 @@ function Hero() {
               <div class=" sm:mt-0 sm:ml-3">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10 border-white"
+                  class="w-full flex items-center justify-center px-10 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-3 md:text-lg md:px-10 border-white"
                 >
                   START A FUNDRAISER
                 </a>

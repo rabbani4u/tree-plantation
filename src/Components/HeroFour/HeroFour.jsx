@@ -27,7 +27,7 @@ function HeroFour() {
               <div class="rounded-md shadow">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-10 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-2 md:text-lg md:px-10 border-white"
+                  className="w-full flex items-center justify-center px-10 py-2 border-2 text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-2 md:text-lg md:px-10 border-white"
                 >
                   EXPLORE MAP
                 </a>

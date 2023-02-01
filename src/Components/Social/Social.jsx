@@ -5,7 +5,9 @@ function Social() {
     <div className="grid grid-cols-3 my-5 ">
       <div className=" col-span-2">
         <div className="social__heading">
-          <h1 className="heading__text">FOLLOW US @ONETREEPLANTED</h1>
+          <h1 className="heading__text text-center">
+            FOLLOW US @ONETREEPLANTED
+          </h1>
         </div>
         {/* Card Section */}
         <div class="flex  items-center justify-center ">
@@ -288,7 +290,7 @@ function Social() {
 
       {/* Social__Rigth */}
       <div className="grid col-span-1">
-        <h1 className="text-xl my-4 justify-center items-center">
+        <h1 className="text-xl my-4 text-center">
           Tweets from @onetreeplanted
         </h1>
         <div>

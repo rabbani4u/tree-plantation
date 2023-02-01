@@ -25,7 +25,7 @@ function HeroThree() {
               <div class="rounded-md shadow">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-8 py-2 border border-transparent text-base leading-6 font-regular rounded-md font-semibold text-white border-white  hover:bg-indigo-50 focus:outline-none hover:text-black focus:border-indigo-50  focus:shadow-outline-indigo transition duration-500 ease-in-out md:py-2 md:px-10"
+                  className="w-full flex items-center justify-center px-8 py-2 border-2 text-base leading-6 font-regular rounded-md font-semibold text-white border-white  hover:bg-indigo-50 focus:outline-none hover:text-black focus:border-indigo-50  focus:shadow-outline-indigo transition duration-500 ease-in-out md:py-2 md:px-10"
                 >
                   WHY TREES?
                 </a>
@@ -33,7 +33,7 @@ function HeroThree() {
               <div class="mt-3 sm:mt-0 sm:ml-3">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-8 py-2 border border-transparent text-base leading-6 font-regular rounded-md font-semibold text-sm  text-white hover:text-black hover:bg-indigo-50 focus:outline-none border-white focus:shadow-outline-indigo focus:border-indigo-50 transition duration-500 ease-in-out md:py-2 md:px-10"
+                  className="w-full flex items-center justify-center px-8 py-2 border-2 text-base leading-6 font-regular rounded-md font-semibold text-sm  text-white hover:text-black hover:bg-indigo-50 focus:outline-none border-white focus:shadow-outline-indigo focus:border-indigo-50 transition duration-500 ease-in-out md:py-2 md:px-10"
                 >
                   PLANTS A TREE
                 </a>

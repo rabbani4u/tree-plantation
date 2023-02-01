@@ -17,13 +17,13 @@ function Banner() {
           alt=""
         />
       </div>
-      <div className=" content-center">
+      <div className="w-full justify-center content-center text-center">
         <p className="banner__text">
           We work with amazing reforestation partners around the world that need
           your support to help get trees in the ground.
         </p>
         <br />
-        <button className="banner__cta__btn ">
+        <button className="banner__cta__btn text-center">
           LEARN MORE ABOUT OUR PARTNERSHIP
         </button>
       </div>

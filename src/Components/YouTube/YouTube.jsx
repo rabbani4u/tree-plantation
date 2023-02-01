@@ -4,8 +4,9 @@ import "./Youtube.css";
 
 function YouTube() {
   return (
-    <div className="grid grid-cols-1 col-span-1 justify-center my-20">
+    <div className="my-20 w-full text-center justify-center content-center">
       <iframe
+        className="mx-auto"
         width="1181"
         height="663"
         src="https://www.youtube.com/embed/3ZRWJka6-1k"

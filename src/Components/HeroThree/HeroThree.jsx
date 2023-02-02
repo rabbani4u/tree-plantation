@@ -11,7 +11,7 @@ function HeroThree() {
             "url('https://cdn.shopify.com/s/files/1/0326/7189/files/7_1_5be8ed09-0347-4d36-ac12-e11863fe25f9_1400x.jpg?v=1614322671')",
         }}
       >
-        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div>
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-50"></div>
 
         <main class="px-4 sm:px-6 lg:px-8 z-10">
           <div class="text-center">

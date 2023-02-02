@@ -2,8 +2,8 @@ import React from "react";
 
 function Social() {
   return (
-    <div className="grid grid-cols-3 my-5 ">
-      <div className=" col-span-2">
+    <div className="grid grid-cols-3 my-5">
+      <div className=" col-span-2 mx-4">
         <div className="social__heading">
           <h1 className="heading__text text-center">
             FOLLOW US @ONETREEPLANTED
@@ -13,7 +13,7 @@ function Social() {
         <div class="flex  items-center justify-center ">
           <div class="grid grid-cols-1 gap-3 md:grid-cols-2 lg:grid-cols-4">
             {/* 1st Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
@@ -21,264 +21,232 @@ function Social() {
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 2st Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327694647_1163410424365281_2685247061406107830_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=hr7monV65_0AX9667_9&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAEl3V_2xWawHHhQj59COWxU15JApYUwQ-nZBh8qUabRg&oe=63DCF9C1"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 3st Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327823511_986837945612705_287065537355150781_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=FK5VqvfAigwAX8LwGDB&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC6sC71VLb_9YPRWzoyi8Xx_Hh_UwhK1XFbIdbI_BmRNQ&oe=63DBB778"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 4st Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327458223_1916700875331669_6238049182826920319_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=1V40RZwYUyIAX8zRB8x&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBoohiNmSs3p0jxihD1hV7kPFw0KwZO0lDG3GucM0ebCA&oe=63DBD957"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 5th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327505367_139909262264816_6855910024045651260_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=G9sTvhS9wREAX-rrw5U&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfALfzBhqUrCCga_hVwAYm8pPruVKxtjzvkquvfEBuflbg&oe=63DC1F81"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 6th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327459853_989637962005040_7763007626648541964_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=aYLeKIAEVeIAX_CUQHN&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBmpfYq8RyGzhUE9KQ3jJhb13rGzncKQuAqtzLGP3sZDg&oe=63DC37D8"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 7th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327459340_938846447128208_2573466874654594719_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-F33Jk2JdFQAX_tFhAz&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDhPOgAVm5gu0D4Vxka8DL0lk7wSHZNgbNM7s0CNw7Oew&oe=63DB8F11"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 8th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327298426_2171073649767617_8547035303859526300_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-CgwC_u2koIAX-avCjq&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDN9BY3fK_lKwAXpkGifUhywDf0UpOa2KkP86P4EDSb3A&oe=63DBCB75"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[82%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   INDIVIDUAL
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Become a Tree Ambaseder and support our global reforestation
-                  effort
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 9th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500"
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327208124_511697584184425_2168595144356662658_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=spymlBXNJtcAX89HUTy&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAbPmYFiQ413Ov_kmaT03C1uajt7f0ObqCCWdDSyBNmfQ&oe=63DBB6AC"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   BUSINESS
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Increase Your Corporate Social Responsibility.
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 10th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327194340_5965745180184546_2806313508352405872_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=kaL66wWtPfsAX_WCryu&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBbkuxBt4V747AAMX9ML1fQtI_4skd_K5VGiI2eN294JA&oe=63DC1E65"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   SCHOOLS
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Bring Environmental Education and Campus
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 11th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327334345_1499377407256715_1646458897849088280_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=sxvSSbbIf20AX_DjpYD&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBHa1oNqWYzjtkFsT2f76d_1L6gGi0CTyiNBu5O3KK8FQ&oe=63DBF0A3"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   SCHOOLS
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Bring Environmental Education and Campus
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>
               </div>
             </div>
             {/* 12th Card */}
-            <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-              <div class="h-80 w-80">
+            <div class="h-40 w-50 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 ">
+              <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
                   src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327149586_1418424708971111_8186432567356060161_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=uPN30JxWrfQAX9WV6Qd&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCHmG7Ba2_MdE8xGijdZP5lhT8PM9mDvsZxG1kiZoJd0Q&oe=63DBEA0A"
                   alt=""
                 />
               </div>
-              <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-              <div class="absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
+              <div class="h-40 w-50 absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
+              <div class="h-40 w-50 absolute inset-0 flex translate-y-[80%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
                 <h1 class="font-dmserif text-3xl font-bold text-white">
                   SCHOOLS
                 </h1>
-                <p class="mb-3 text-md  text-white opacity-100 transition-opacity duration-300 group-hover:opacity-100">
-                  Bring Environmental Education and Campus
-                </p>
+
                 <button class="rounded-md bg-teal-700 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
                   GET INVOLVED
                 </button>

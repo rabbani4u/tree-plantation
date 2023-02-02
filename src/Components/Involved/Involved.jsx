@@ -6,10 +6,10 @@ function Involved() {
       <div class="flex min-h-screen items-center justify-center ">
         <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-            <div class="h-80 w-80">
+            <div class="h-96 w-96">
               <img
-                class="h-full w-full object-cover transition-transform duration-500 "
-                src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+                class="h-full w-full object-Contain transition-transform duration-500 "
+                src="https://cdn.shopify.com/s/files/1/0326/7189/files/1_cee46d87-f6db-40bd-a38a-1326bd89574b_400x.png?v=1614315088"
                 alt=""
               />
             </div>
@@ -29,10 +29,10 @@ function Involved() {
           </div>
 
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-            <div class="h-80 w-80">
+            <div class="h-96 w-96">
               <img
                 class="h-full w-full object-cover transition-transform duration-500"
-                src="https://images.unsplash.com/photo-1494145904049-0dca59b4bbad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+                src="https://cdn.shopify.com/s/files/1/0326/7189/files/2_2fce6455-c304-475d-84dd-7872a448eb65_400x.png?v=1614315088"
                 alt=""
               />
             </div>
@@ -50,10 +50,10 @@ function Involved() {
             </div>
           </div>
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-md">
-            <div class="h-80 w-80">
+            <div class="h-96 w-96">
               <img
                 class="h-full w-full object-cover transition-transform duration-500 "
-                src="https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+                src="https://cdn.shopify.com/s/files/1/0326/7189/files/3_60d14ccf-ef0d-4b3d-b91b-4d8d3a651c57_400x.png?v=1614315088"
                 alt=""
               />
             </div>

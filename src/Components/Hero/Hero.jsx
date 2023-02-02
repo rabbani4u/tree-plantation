@@ -8,10 +8,10 @@ function Hero() {
         class="relative h-screen w-full flex items-center justify-start text-left bg-cover bg-center h-700"
         style={{
           backgroundImage:
-            "url('https://cdn.shopify.com/s/files/1/0326/7189/files/reforestation-biodiversity-desktop_1400x.jpg?v=1674855907')",
+            "url('https://cdn.shopify.com/s/files/1/0326/7189/files/harli-marten-M9jrKDXOQoU-desktop_1400x.jpg?v=1675290039')",
         }}
       >
-        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div>
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-50"></div>
 
         <main class="px-10 lg:px-24 z-10">
           <div class="text-left">
@@ -28,7 +28,7 @@ function Hero() {
               <div class="rounded-md shadow">
                 <a
                   href="#"
-                  class="w-full flex items-center justify-center px-10 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-indigo-50 hover:bg-indigo-50 focus:outline-none focus:border-indigo-50 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-3 md:text-lg md:px-10"
+                  class="w-full flex items-center justify-center px-8 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-black bg-indigo-50 hover:bg-indigo-50 focus:outline-none focus:border-indigo-50 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-2 md:text-lg md:px-8"
                 >
                   PLAN A TREE
                 </a>
@@ -36,7 +36,7 @@ function Hero() {
               <div class=" sm:mt-0 sm:ml-3">
                 <a
                   href="#"
-                  className="w-full flex items-center justify-center px-10 py-3 border-2 border-white text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-3 md:text-lg md:px-10 "
+                  className="w-full flex items-center justify-center px-8 py-2 border-2 border-white text-base leading-6 font-medium rounded-md text-indigo-50 hover:text-black hover:bg-indigo-50 focus:outline-none focus:shadow-outline-indigo focus:border-indigo-50 transition duration-150 ease-in-out md:py-2 md:text-lg md:px-8 "
                 >
                   START A FUNDRAISER
                 </a>

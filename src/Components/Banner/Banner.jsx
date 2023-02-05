@@ -23,7 +23,7 @@ function Banner() {
           your support to help get trees in the ground.
         </p>
         <br />
-        <button className="banner__cta__btn text-center">
+        <button className="bg-emerald-600 max-auto my-3  py-3 px-6  text-white font-semibold border border-white rounded hover:border-transparent transition ease-in duration-200">
           LEARN MORE ABOUT OUR PARTNERSHIP
         </button>
       </div>

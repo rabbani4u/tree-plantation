@@ -3,36 +3,17 @@
   line-height: 5rem;
   font-weight: 700;
 }
-.cta__section {
+.check_jobs {
   display: flex;
   flex-direction: column;
   text-align: center;
   justify-content: center;
+
+  padding: 50px 0;
 }
-.cta__section .cta__button {
-  width: 200px;
-  padding: 5px 10px;
-  font-size: 20px;
-  background-color: #d0373c;
-  cursor: pointer;
-  text-align: center;
+.check_jobs_heading {
   color: #fff;
-  font-weight: 400;
-  margin: 0 auto;
-  border-radius: 5%;
-  border-radius: 5px;
-}
-.cta__button:hover {
-  background-color: #ff5a5f;
-  width: 200px;
-  padding: 5px 10px;
-  font-size: 20px;
-  cursor: pointer;
-  text-align: center;
-  color: #fff;
-  font-weight: 400;
-  margin: 0 auto;
-  border-radius: 5px;
-  transform: scale(1.1, 1.1);
-  transition: 1s all ease;
+  font-size: 50px;
+  line-height: 6rem;
+  font-weight: 600;
 }

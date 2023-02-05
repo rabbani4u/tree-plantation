@@ -15,13 +15,13 @@ function Hero() {
 
         <main class="px-10 lg:px-24 z-10">
           <div class="text-left">
-            <p class="mt-3 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg  ">
+            <p class="mb-3 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg  ">
               ONE DOLLAR. ONE TREE. ONE PLANT.
             </p>
             <h2 class="text-4xl tracking-tight leading-10 font-extrabold sm:text-5xl text-white sm:leading-none md:text-6xl">
               WE PLANT TREES
             </h2>
-            <p class="mt-3 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg ">
+            <p class="mt-2 text-white sm:mt-5 sm:max-w-xl md:mt-5 text-lg ">
               TOGETHER, PLANTING A FOREST!
             </p>
             <div class="mt-5 sm:mt-8 sm:flex justify-start">

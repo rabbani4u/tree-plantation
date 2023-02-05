@@ -17,7 +17,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327617202_148504788021085_5157465503995182170_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=z9DIHZk0m_0AX_wVdF3&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCKDiJ3JuAss3EqmJAYZLAk1NKcYdMZdNn1fld4pdybRA&oe=63DCE405"
+                  src="	https://images.pexels.com/photos/2253815/pexels-photo-2253815.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
                   alt=""
                 />
               </div>
@@ -37,7 +37,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327694647_1163410424365281_2685247061406107830_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=hr7monV65_0AX9667_9&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAEl3V_2xWawHHhQj59COWxU15JApYUwQ-nZBh8qUabRg&oe=63DCF9C1"
+                  src="https://images.pexels.com/photos/2884909/pexels-photo-2884909.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
                   alt=""
                 />
               </div>
@@ -57,7 +57,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327823511_986837945612705_287065537355150781_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=FK5VqvfAigwAX8LwGDB&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfC6sC71VLb_9YPRWzoyi8Xx_Hh_UwhK1XFbIdbI_BmRNQ&oe=63DBB778"
+                  src="https://images.pexels.com/photos/2063892/pexels-photo-2063892.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -77,7 +77,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327458223_1916700875331669_6238049182826920319_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=1V40RZwYUyIAX8zRB8x&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBoohiNmSs3p0jxihD1hV7kPFw0KwZO0lDG3GucM0ebCA&oe=63DBD957"
+                  src="https://images.pexels.com/photos/631317/pexels-photo-631317.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -97,7 +97,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327505367_139909262264816_6855910024045651260_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=G9sTvhS9wREAX-rrw5U&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfALfzBhqUrCCga_hVwAYm8pPruVKxtjzvkquvfEBuflbg&oe=63DC1F81"
+                  src="https://images.pexels.com/photos/3581847/pexels-photo-3581847.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -117,7 +117,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327459853_989637962005040_7763007626648541964_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=aYLeKIAEVeIAX_CUQHN&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBmpfYq8RyGzhUE9KQ3jJhb13rGzncKQuAqtzLGP3sZDg&oe=63DC37D8"
+                  src="https://images.pexels.com/photos/2949825/pexels-photo-2949825.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -137,7 +137,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327459340_938846447128208_2573466874654594719_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-F33Jk2JdFQAX_tFhAz&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDhPOgAVm5gu0D4Vxka8DL0lk7wSHZNgbNM7s0CNw7Oew&oe=63DB8F11"
+                  src="https://images.pexels.com/photos/3889927/pexels-photo-3889927.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -157,7 +157,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327298426_2171073649767617_8547035303859526300_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-CgwC_u2koIAX-avCjq&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfDN9BY3fK_lKwAXpkGifUhywDf0UpOa2KkP86P4EDSb3A&oe=63DBCB75"
+                  src="https://images.pexels.com/photos/1109907/pexels-photo-1109907.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -177,7 +177,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500"
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327208124_511697584184425_2168595144356662658_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=spymlBXNJtcAX89HUTy&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfAbPmYFiQ413Ov_kmaT03C1uajt7f0ObqCCWdDSyBNmfQ&oe=63DBB6AC"
+                  src="https://images.unsplash.com/photo-1655682597128-2b10c079cf83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjB8ODU4ODMwNTl8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60"
                   alt=""
                 />
               </div>
@@ -197,7 +197,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327194340_5965745180184546_2806313508352405872_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=kaL66wWtPfsAX_WCryu&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBbkuxBt4V747AAMX9ML1fQtI_4skd_K5VGiI2eN294JA&oe=63DC1E65"
+                  src="https://images.unsplash.com/photo-1543181077-099f32f30a1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzN8ODU4ODMwNTl8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60"
                   alt=""
                 />
               </div>
@@ -217,7 +217,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.29350-15/327334345_1499377407256715_1646458897849088280_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=sxvSSbbIf20AX_DjpYD&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBHa1oNqWYzjtkFsT2f76d_1L6gGi0CTyiNBu5O3KK8FQ&oe=63DBF0A3"
+                  src="https://images.pexels.com/photos/920038/pexels-photo-920038.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>
@@ -237,7 +237,7 @@ function Social() {
               <div class="h-40 w-50">
                 <img
                   class="h-full w-full object-cover transition-transform duration-500 "
-                  src="https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/327149586_1418424708971111_8186432567356060161_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=uPN30JxWrfQAX9WV6Qd&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfCHmG7Ba2_MdE8xGijdZP5lhT8PM9mDvsZxG1kiZoJd0Q&oe=63DBEA0A"
+                  src="https://images.pexels.com/photos/4200705/pexels-photo-4200705.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt=""
                 />
               </div>

@@ -4,7 +4,7 @@ import "./Youtube.css";
 
 function YouTube() {
   return (
-    <div className="my-20 w-full text-center justify-center content-center">
+    <div className=" my-20 w-full text-center justify-center content-center">
       <iframe
         className="mx-auto"
         width="1181"
